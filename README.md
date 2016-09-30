@@ -1,3 +1,7 @@
+#notw
+
+notw - No Trailing Whitespace
+
 Having difficulties in creating a file should not include  trailing whitespace.
 
 If you have difficulty of creating file without trailing whitespace,
@@ -20,7 +24,9 @@ It is already tested several times and made a as successful submission on edx.or
 
 * interface 
 * write documentation 
-* write tests and improve coverage 
+* write tests and improve coverage
+* haml
+* travis ci
 
 
 #How to contribute

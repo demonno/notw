@@ -5,7 +5,7 @@ class MyApp < Sinatra::Base
         erb :home
       end
 
-      get '/nosp' do
+      get '/notw' do
         text = params[:text]
         temp_file = Tempfile.new('foo')
         open(temp_file, 'w') { |f|
