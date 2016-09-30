@@ -2,7 +2,6 @@
 
 notw - No Trailing Whitespace
 
-Having difficulties in creating a file should not include  trailing whitespace.
 
 If you have difficulty of creating file without trailing whitespace,
 visit here https://boiling-bastion-69478.herokuapp.com/ and do it just in one click.
